@@ -2,7 +2,7 @@
 <h3 align="center">AI Full-Stack Software Engineer | AI Enthusiast | Building Scalable Web & Mobile Applications</h3>
 
 <p align="center">
-  <a href="https://www.rangekoli.com" target="_blank">
+  <a href="https://www.rangelkoli.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/rangelkoli/" target="_blank">
